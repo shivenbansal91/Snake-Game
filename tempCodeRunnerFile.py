@@ -1,0 +1,1 @@
+screen.setup(600,600)
